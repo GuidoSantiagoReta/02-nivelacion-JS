@@ -5,3 +5,5 @@
 * Destructuring
 * Basic Callback
 * Callback Hell
+* Promises
+* Async - Await
